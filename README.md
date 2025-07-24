@@ -23,10 +23,7 @@ This smart translator goes beyond basic functionality — offering:
 ---
 
 ## 📸 Screenshots
-
-> _(Include screenshots of the translator in Light and Dark modes, before/after translation, etc.)_
-
----
+<img width="1918" height="1079" alt="Screenshot 2025-07-24 130335" src="https://github.com/user-attachments/assets/7ddfb2dd-3ab6-43a4-b6da-766e3eb5a1f0" />
 
 ## 🛠 Technologies Used
 
