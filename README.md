@@ -1,28 +1,38 @@
-🌐 AI Multilanguage Translator UI
-An intelligent, real-time desktop translation application built using Python and Tkinter. This smart translator goes beyond basic translation — it features:
+# 🌐 AI Multilanguage Translator UI
 
-✅ Name Masking Algorithm to preserve personal names during translation
-🌗 Dark/Light Mode Toggle for a modern user-friendly interface
-🗣️ Automatic Language Detection using advanced linguistic processing
-💾 User Preference Persistence for a seamless experience
-🌍 Supports 12+ global languages with the power of deep-translator
+An intelligent, real-time desktop translation application built using Python and Tkinter.
 
-🚀 Features
-Translate any sentence instantly across major world languages
+This smart translator goes beyond basic functionality — offering:
 
-Clean, responsive UI built with Tkinter and ttk
+- ✅ Name masking to preserve personal identity
+- 🌗 Dark/Light mode toggle for a modern experience
+- 🌍 Auto language detection
+- 💾 Persistent theme and language preferences
+- 🔁 Real-time translation across 12+ global languages
 
-Detects input language and automatically adapts
+---
 
-Saves your preferred settings and themes
+## 🚀 Features
 
-Fully customizable, GPU-friendly, and lightweight
+- 🎯 Instant translation with auto-language detection
+- 🎨 Theme-aware user interface (Light/Dark)
+- 🧠 Name masking logic for personalized text protection
+- 🛠 Built with Tkinter for a native app feel
+- 💬 Powered by `deep-translator`
 
-🛠 Technologies Used
-Python 3.8+
+---
 
-Tkinter for UI design
+## 📸 Screenshots
 
-Deep Translator library for backend translation
+> _(Include screenshots of the translator in Light and Dark modes, before/after translation, etc.)_
 
-JSON & Pathlib for config handling and local storage
+---
+
+## 🛠 Technologies Used
+
+| Component       | Description                      |
+|----------------|----------------------------------|
+| Python 3.8+     | Core programming language        |
+| Tkinter         | GUI Development                  |
+| Deep Translator | Backend translation engine       |
+| JSON & Pathlib  | Preference & config persistence  |
